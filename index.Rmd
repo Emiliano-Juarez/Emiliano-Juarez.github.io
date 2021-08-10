@@ -9,12 +9,13 @@ links:
   - label: GitHub
     url: "https://github.com/Emiliano-Juarez"
   - label: Email
-    url: "emilianojuarezlopez98@gamil.com"
+    url: "emilianojuarezlopez98@gmail.com"
 output:
   postcards::jolla_blue
 ---
  
-Raised in New Jersey by two lawyers, I am now an aspiring data artist and 
-competitive rock climber. I moved to Seattle to fly floatplanes, but I got 
-caught up in the startup world. Send me a WhatsApp message if you have good 
-turnip prices.
+Soy tesista en la Facultad de Ciencias por la Universidad Nacional Autónoma de México. Estoy haciendo mi tesis analizando datos de secuenciación de RNA en célula única (scRNA-seq) proveniente de pacientes COVID-19 severo, bajo la asesoría de la Doctora Yalbi Balderas Martínez en el Instituto Nacional de Enfermedades Respiratorias "Ismael Cosío Villegas".
+
+Me gustan los temas relacionados con la estadística, biología molecular, inmunología, cáncer, enfermedades respiratorias y programación. Me aprender de programación y análisis de datos en los lenguajes de R y Python.
+
+Como pasatiempo me gusta hacer deportes como la natación, gimnasia y parkour. Adoro ver películas y escuchar música, además, tengo un gusto agridulce por leer de crítica política.
