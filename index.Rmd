@@ -4,9 +4,7 @@ image: "emiliano.jpeg"
 links:
   - label: LinkedIn
     url: "www.linkedin.com/in/emiliano-j-755404216"
-  - label: Twitter
-    url: "https://twitter.com/EmilianoJL98"
-  - label: GitHub
+   - label: GitHub
     url: "https://github.com/Emiliano-Juarez"
   - label: Email
     url: "emilianojuarezlopez98@gmail.com"
