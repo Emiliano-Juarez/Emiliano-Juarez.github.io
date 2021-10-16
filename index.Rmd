@@ -2,18 +2,20 @@
 title: "Emiliano Juárez López"
 image: "emiliano.jpeg"
 links:
-  - label: LinkedIn
+  - label: '`r fontawesome::fa("linkedin", fill = "darkblue")`'
     url: "www.linkedin.com/in/emiliano-j-755404216"
-  - label: GitHub
+  - label: '`r fontawesome::fa("github", fill = "red")`'
     url: "https://github.com/Emiliano-Juarez"
-  - label: Email
+  - label: '`r fontawesome::fa("envelope", fill = "dark")`'
     url: "emilianojuarezlopez98@gmail.com"
 output:
-  postcards::jolla_blue
+  postcards::trestles
 ---
- 
-Soy tesista en la Facultad de Ciencias por la Universidad Nacional Autónoma de México. Estoy haciendo mi tesis analizando datos de secuenciación de ARN en célula única (scRNA-seq) proveniente de pacientes COVID-19 severo, bajo la asesoría de la Doctora Yalbi Balderas Martínez del Instituto Nacional de Enfermedades Respiratorias "Ismael Cosío Villegas".
+## Descripción 
+Soy tesista de Biología en la Facultad de Ciencias de la Universidad Nacional Autónoma de México. Estoy haciendo mi tesis analizando datos de secuenciación de ARN en célula única (scRNA-seq) proveniente de pacientes COVID-19 severo, bajo la asesoría de la Doctora Yalbi Balderas Martínez del Instituto Nacional de Enfermedades Respiratorias "Ismael Cosío Villegas".
 
-Me gustan los temas relacionados con la estadística, biología molecular, inmunología, cáncer, enfermedades respiratorias y programación. Me gusta aprender de programación y análisis de datos en los lenguajes de R y Python.
+## Intereses
+Me gustan los temas relacionados con la estadística, biología molecular, inmunología, cáncer, enfermedades humanas y programación. Me gusta aprender de programación y análisis de datos.
 
-Como pasatiempo me gusta hacer deportes como la natación, gimnasia y parkour. Adoro ver películas y escuchar música, además, tengo un gusto agridulce por leer de crítica política.
+## Pasatiempo
+Como pasatiempo me gusta hacer deportes como natación, gimnasia y parkour. Adoro ver películas y escuchar música, además de tener un gusto agridulce por leer de crítica política.
