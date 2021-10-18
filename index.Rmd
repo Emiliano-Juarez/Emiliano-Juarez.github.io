@@ -2,20 +2,20 @@
 title: "Emiliano Juárez López"
 image: "emiliano.jpeg"
 links:
-  - label: '`r fontawesome::fa("linkedin", fill = "darkblue")`'
-    url: "www.linkedin.com/in/emiliano-j-755404216"
+  - label: '`r fontawesome::fa("linkedin", fill = "#2060A8")`'
+    url: "https://www.linkedin.com/in/emiliano-j-755404216"
   - label: '`r fontawesome::fa("github", fill = "red")`'
     url: "https://github.com/Emiliano-Juarez"
   - label: '`r fontawesome::fa("envelope", fill = "dark")`'
-    url: "emilianojuarezlopez98@gmail.com"
+    url: "mailto:emilianojuarezlopez98@gmail.com"
 output:
   postcards::trestles
 ---
 ## Descripción 
-Soy tesista de Biología en la Facultad de Ciencias de la Universidad Nacional Autónoma de México. Estoy haciendo mi tesis analizando datos de secuenciación de ARN en célula única (scRNA-seq) proveniente de pacientes COVID-19 severo, bajo la asesoría de la Doctora Yalbi Balderas Martínez del Instituto Nacional de Enfermedades Respiratorias "Ismael Cosío Villegas".
+Soy tesista en la carrera de Biología por la Facultad de Ciencias en la Universidad Nacional Autónoma de México. Actualmente estoy realizando mi tesis analizando datos de secuenciación de ARN en célula única (scRNA-seq) proveniente de pacientes COVID-19 severo, bajo la asesoría de la Doctora Yalbi Balderas Martínez del Instituto Nacional de Enfermedades Respiratorias "Ismael Cosío Villegas".
 
 ## Intereses
-Me gustan los temas relacionados con la estadística, biología molecular, inmunología, cáncer, enfermedades humanas y programación. Me gusta aprender de programación y análisis de datos.
+Me gustan los temas relacionados con la estadística, biología molecular, inmunología, cáncer, enfermedades humanas y programación. Me gusta aprender de programación y análisis de datos en los lenguajes de R y Python. En un futuro no muy lejano, planeo aprender programación Web
 
 ## Pasatiempo
 Como pasatiempo me gusta hacer deportes como natación, gimnasia y parkour. Adoro ver películas y escuchar música, además de tener un gusto agridulce por leer de crítica política.
