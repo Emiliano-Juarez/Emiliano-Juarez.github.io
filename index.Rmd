@@ -2,20 +2,36 @@
 title: "Emiliano Juárez López"
 image: "emiliano.jpeg"
 links:
-  - label: LinkedIn
-    url: "www.linkedin.com/in/emiliano-j-755404216"
-  - label: Twitter
-    url: "https://twitter.com/EmilianoJL98"
-  - label: GitHub
+  - label: '`r fontawesome::fa("linkedin", fill = "#2060A8")`'
+    url: "https://www.linkedin.com/in/emiliano-j-755404216"
+  - label: '`r fontawesome::fa("github", fill = "red")`'
     url: "https://github.com/Emiliano-Juarez"
-  - label: Email
-    url: "emilianojuarezlopez98@gmail.com"
+  - label: '`r fontawesome::fa("envelope", fill = "dark")`'
+    url: "mailto:emilianojuarezlopez98@gmail.com"
 output:
-  postcards::jolla_blue
+  postcards::trestles
 ---
- 
-Soy tesista en la Facultad de Ciencias por la Universidad Nacional Autónoma de México. Estoy haciendo mi tesis analizando datos de secuenciación de ARN en célula única (scRNA-seq) proveniente de pacientes COVID-19 severo, bajo la asesoría de la Doctora Yalbi Balderas Martínez en el Instituto Nacional de Enfermedades Respiratorias "Ismael Cosío Villegas".
+## **Educación**
+**Biología**, Facultad de Ciencias, UNAM | 2017 - 2021
 
-Me gustan los temas relacionados con la estadística, biología molecular, inmunología, cáncer, enfermedades respiratorias y programación. Me gusta aprender de programación y análisis de datos en los lenguajes de R y Python.
+## **Descripción**
+Soy pasante en la carrera de Biología por la Facultad de Ciencias de la Universidad Nacional Autónoma de México. Actualmente estoy realizando mi tesis analizando datos de secuenciación de ARN en célula individual (scRNA-seq) provenientes de pacientes con COVID-19 severo, bajo la asesoría de la Doctora Yalbi Balderas Martínez, investigadora adscrita al Instituto Nacional de Enfermedades Respiratorias "Ismael Cosío Villegas".
 
-Como pasatiempo me gusta hacer deportes como la natación, gimnasia y parkour. Adoro ver películas y escuchar música, además, tengo un gusto agridulce por leer de crítica política.
+  Como biólogo poseo aptitudes que me permiten realizar actividades de laboratorio como análisis de datos bioinformáticos.
+
+## **Intereses**
+Mis principales intereses son los temas relacionados con:
+
+- Estadística
+- Biología molecular
+- Inmunología
+- Cáncer
+- Enfermedades humanas
+- Programación para el análisis de datos
+- Programación web (Front-end)
+
+## **Pasatiempo**
+Uno de mis pasatiempos favoritos es el hacer deporte y leer. Además de aprender de finanzas personales.
+
+## **Idiomas**
+Inglés | Intermedio
