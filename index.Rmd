@@ -12,7 +12,7 @@ output:
   postcards::trestles
 ---
 ## **Educación**
-Diplomado en Ciencia de datos, Instituto Artek | 2022 - actualidad
+Diplomado en Ciencia de datos, Instituto Artek | 2022 - actualidad\n
 Biología,  Facultad de Ciencias, UNAM | 2017 - 2021
 
 ## **Descripción**
