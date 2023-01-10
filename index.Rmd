@@ -12,12 +12,13 @@ output:
   postcards::trestles
 ---
 ## **Educación**
-**Biología**, Facultad de Ciencias, UNAM | 2017 - 2021
+Diplomado en Ciencia de datos, Instituto Artek | 2022 - actualidad
+Biología,  Facultad de Ciencias, UNAM | 2017 - 2021
 
 ## **Descripción**
 Soy pasante en la carrera de Biología por la Facultad de Ciencias de la Universidad Nacional Autónoma de México. Actualmente estoy realizando mi tesis analizando datos de secuenciación de ARN en célula individual (scRNA-seq) provenientes de pacientes con COVID-19 severo, bajo la asesoría de la Doctora Yalbi Balderas Martínez, investigadora adscrita al Instituto Nacional de Enfermedades Respiratorias "Ismael Cosío Villegas".
 
-  Como biólogo poseo aptitudes que me permiten realizar actividades de laboratorio como análisis de datos bioinformáticos.
+  Como biólogo poseo aptitudes que me permiten realizar actividades de laboratorio y análisis de datos bioinformáticos mediante lenguajes de programación.
 
 ## **Intereses**
 Mis principales intereses son los temas relacionados con:
@@ -34,4 +35,4 @@ Mis principales intereses son los temas relacionados con:
 Uno de mis pasatiempos favoritos es el hacer deporte y leer. Además de aprender de finanzas personales.
 
 ## **Idiomas**
-Inglés | Intermedio
+Inglés | Intermedio (B1)
